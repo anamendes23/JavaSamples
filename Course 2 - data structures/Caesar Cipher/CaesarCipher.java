@@ -1,3 +1,13 @@
+/*
+ * The CaesarCipher class contains two methods to encrypt messages using the
+ * Caesar Cipher method, which shifts the alphabet by a number of characters,
+ * called key.
+ *
+ * This class was created as part of the Duke University online course on Java
+ * programming.
+ *
+ * The goal is to learn a basic form of encryption and Java syntax.
+*/
 import java.util.Scanner;
 
 public class CaesarCipher {
