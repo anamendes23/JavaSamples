@@ -1,4 +1,4 @@
-# Java Programming: Arrays, Lists, and structured data
+# Java Programming: Arrays, Lists, and Structured Data
 
 **Description**: the projects in this folder are related to a Coursera course by Duke University.
 Click here to [access](https://www.coursera.org/learn/java-programming-arrays-lists-data/home/welcome) the full course.
